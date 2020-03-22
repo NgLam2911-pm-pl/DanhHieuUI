@@ -1,0 +1,12 @@
+ name: DanhHieuSystem
+ main: DanhHieu\phuongaz\DanhHieu
+ version: 2.0
+ api: 3.0.0
+ author: phuongaz
+  #Editor & Designer: BlackPMFury
+ news:
+  - Added FormAPI to all Commands
+ commands:
+  danhhieu:
+   default: op
+   description: Danh hieu 
